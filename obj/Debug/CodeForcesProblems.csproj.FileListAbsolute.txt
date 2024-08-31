@@ -1,0 +1,7 @@
+C:\Users\muham\source\repos\CodeForcesProblems\bin\Debug\CodeForcesProblems.exe.config
+C:\Users\muham\source\repos\CodeForcesProblems\bin\Debug\CodeForcesProblems.exe
+C:\Users\muham\source\repos\CodeForcesProblems\bin\Debug\CodeForcesProblems.pdb
+C:\Users\muham\source\repos\CodeForcesProblems\obj\Debug\CodeForcesProblems.csproj.AssemblyReference.cache
+C:\Users\muham\source\repos\CodeForcesProblems\obj\Debug\CodeForcesProblems.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\CodeForcesProblems\obj\Debug\CodeForcesProblems.exe
+C:\Users\muham\source\repos\CodeForcesProblems\obj\Debug\CodeForcesProblems.pdb
